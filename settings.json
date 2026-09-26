@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "MineCubess.aternos.me:52860",
+    "port": 52860,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
